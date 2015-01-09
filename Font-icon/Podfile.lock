@@ -1,0 +1,13 @@
+PODS:
+  - FLKAutoLayout (0.2.1)
+  - FontIcon (1.0)
+
+DEPENDENCIES:
+  - FLKAutoLayout (~> 0.2.1)
+  - FontIcon (~> 1.0)
+
+SPEC CHECKSUMS:
+  FLKAutoLayout: 8a973ab83832a8527626127193643f3c8ea157d5
+  FontIcon: 26bc94735ea33d51e412a3eeb20f306b2527ce17
+
+COCOAPODS: 0.35.0

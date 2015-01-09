@@ -1,0 +1,3 @@
+platform :ios, '7.0'
+pod 'FontIcon', '~> 1.0'
+pod 'FLKAutoLayout', '~> 0.2.1'
